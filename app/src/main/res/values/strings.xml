@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Light House Technology Test Task</string>
+    <string name="otp_title">OTP code will be shown below, if an sms with 4 digits is received on
+        your phone</string>
+    <string name="notification_postTime">%1$s\n%2$s</string>
+    <string name="notification_title">Notification will be shown below, once received</string>
+</resources>
